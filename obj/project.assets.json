@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\акмал\\Desktop\\HW#\\HW3\\HW3.csproj",
+      "projectUniqueName": "C:\\Users\\акмал\\Desktop\\d-z27.02\\HW3.csproj",
       "projectName": "HW3",
-      "projectPath": "C:\\Users\\акмал\\Desktop\\HW#\\HW3\\HW3.csproj",
+      "projectPath": "C:\\Users\\акмал\\Desktop\\d-z27.02\\HW3.csproj",
       "packagesPath": "C:\\Users\\акмал\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\акмал\\Desktop\\HW#\\HW3\\obj\\",
+      "outputPath": "C:\\Users\\акмал\\Desktop\\d-z27.02\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

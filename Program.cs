@@ -61,39 +61,42 @@ namespace aki2
 
             ///Задание 4 
 
-            //  int a = 2, b = 3, c = 4, min = a, mid = b, max = c;
-            //  if (max < b)
-            //  {
-            //      max=b;
-            //  }
-            //  if(max < c) 
-            //  {
-            //      max=c;
-            //  }  
-            //  if (min>b)
+            // int a = 2, b = 3, c = 4, min = a, mid = b, max = c;
+            // if (max < b)
             // {
-            //     min=b;
+            //     max = b;
             // }
-            // if(min > c)
+            // if (max < c)
             // {
-            //     min=c;
+            //     max = c;
             // }
-            // if(a!=max&&a!=min)
+            // if (min > b)
+            // {
+            //     min = b;
+            // }
+            // if (min > c)
+            // {
+            //     min = c;
+            // }
+            // if (a != max && a != min)
             // {
             //     mid = a;
             // }
-            // if (b!=max&&b!=min)
+            // if (b != max && b != min)
             // {
             //     mid = b;
             // }
-            // if (c!=max&&c!=min)
+            // if (c != max && c != min)
             // {
             //     mid = c;
             // }
+            // a = max;
+            // b = mid;
+            // c = min;
             // System.Console.WriteLine($"a={a} b={b} c={c}");
+            // Console.ReadKey();
 
-          
-            
+
 
 
 
